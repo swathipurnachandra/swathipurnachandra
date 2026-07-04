@@ -13,11 +13,8 @@ I am working as a SWE Intern at SIMS Hospital — building an Indoor Navigation 
 Grinding LeetCode daily.
 
 ## Skills
-Languages         Python · C++ · Java · JavaScript 
-Backend           FastAPI · Django · REST APIs
-Data & Streaming  Kafka · Redis · PostgreSQL · NumPy · Pandas
-ML                Scikit-Learn · OpenCV
-Tools             Docker · Git · SQL · Supabase · InkScape
+Languages: Python · C++ · Java · JavaScript.  Backend: FastAPI · Django · REST APIs. Data & Streaming: Kafka · Redis · PostgreSQL · NumPy · Pandas.
+ML: Scikit-Learn · OpenCV. Tools: Docker · Git · SQL · Supabase · InkScape
 
 ## Building
 Real-Time Payment Anomaly Detection Pipeline
