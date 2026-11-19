@@ -54,11 +54,14 @@ Contributed to an AI-driven sex education platform focused on anonymity, accessi
 </td>
 <td width="50%" valign="top">
 
-### Gargantua Simulation
 
-Created a black hole simulation exploring gravitational lensing and accretion disks.
+<td width="50%" valign="top">
 
-**Tool:** Blender
+### Pneumonia Detection using KNN
+
+Developed a machine learning-based classification system to detect pneumonia from chest X-ray images using a K-Nearest Neighbors (KNN) classifier. Implemented grayscale conversion, image resizing, normalization, and pixel-based feature extraction to classify X-rays into NORMAL and PNEUMONIA categories. Achieved **73.24% test accuracy** with **99% recall for pneumonia**.
+
+**Stack:** Python, KNN, Scikit-learn, OpenCV, NumPy, Matplotlib, Seaborn
 
 </td>
 </tr>
