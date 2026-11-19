@@ -11,7 +11,7 @@
 
 ## `whoami`
 
-I'm Swathi Purna Chandra. I enjoy understanding how things work beneath the surface — from distributed systems and database internals to black holes and the evolution of the universe.
+I'm Swathi Purna Chandra. I enjoy understanding how things work beneath the surface, from distributed systems and database internals to black holes and the evolution of the universe.
 
 I'm particularly interested in backend architecture, distributed systems, message queues, databases, and the engineering trade-offs behind building scalable and reliable infrastructure.
 
@@ -64,15 +64,22 @@ Created a black hole simulation exploring gravitational lensing and accretion di
 </tr>
 </table>
 
+
 ## `experience.log`
 
-**NLC India — Web Development Intern**
+### NLC India Limited
+**Web Development Intern**
 
-Worked on an AI Email Assistant Bot, gaining practical exposure to web development and building software solutions.
+Worked on an **Network AI Agent**, a project focused on simplifying email-related workflows through AI-assisted functionality. Contributed to the development of the application, working on integrating its core functionality and building the web-based interface that enabled users to interact with the assistant. This internship provided practical experience in translating an AI-powered concept into a functional software application.
 
-**SIMS Hospital — Software Engineering Intern**
+---
 
-Developed an Indoor Navigation System as a Progressive Web App (PWA), working on a real-world navigation solution.
+### SIMS Hospital
+**Software Engineering Intern**
+
+Worked on developing an **Indoor Navigation System** as a Progressive Web App (PWA), aimed at helping patients and visitors navigate hospital premises more easily. Contributed to building the application's user-facing navigation experience and implementing the web application structure to support indoor navigation. The project involved designing a practical digital solution for a real-world healthcare environment, with an emphasis on accessibility and ease of use.
+
+
 
 ## `tech_stack`
 
@@ -105,21 +112,12 @@ Developed an Indoor Navigation System as a Progressive Web App (PWA), working on
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 
+---
 ## `currently.exe`
 
 - Solving problems on LeetCode.
 - Exploring distributed systems and backend architecture.
 - Learning more about scalable infrastructure.
-
-## `github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swathipurnachandra&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swathipurnachandra&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
 
 ---
 
