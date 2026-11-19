@@ -19,51 +19,52 @@ Outside technology, I'm fascinated by astrophysics and cosmology. I read Carl Sa
 
 I'm also an avid reader who enjoys exploring ideas beyond my technical domain. I like building things, learning things I don't understand yet, and occasionally going down rabbit holes that have absolutely nothing to do with my coursework.
 
-## `things_ive_built`
+
+<h2><code>things_ive_built</code></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Real-Time Payment Anomaly Detection
+<h3>Real-Time Payment Anomaly Detection</h3>
 
-Built a streaming pipeline for real-time transaction monitoring and anomaly detection.
+Built a real-time streaming pipeline to identify suspicious financial transactions using event-driven processing and anomaly detection.
 
-**Stack:** Kafka, Redis, PostgreSQL, FastAPI, Docker
+<b>Stack:</b> Kafka · Redis · PostgreSQL · FastAPI · Docker
 
 </td>
 <td width="50%" valign="top">
 
-### SAKSHaM
+<h3>SAKSHaM</h3>
 
-Developed a platform connecting people with volunteers, NGOs, and local services.
+Developed a platform connecting people with volunteers, NGOs, and local services to address community needs.
 
-**Stack:** React, Django, MongoDB, TensorFlow
+<b>Stack:</b> React · Django · MongoDB · TensorFlow
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Unsaid
+<h3>Unsaid</h3>
 
-Contributed to an AI-driven sex education platform focused on anonymity, accessibility, and interactive learning.
+Contributed to an AI-driven sex education platform focused on anonymous access, interactive learning, and accessible information.
 
-**Stack:** React, NLP, Rasa
+<b>Stack:</b> React · NLP · Rasa
 
 </td>
 <td width="50%" valign="top">
 
-### Pneumonia Detection using KNN
+<h3>Pneumonia Detection using KNN</h3>
 
-Developed a machine learning-based classification system to detect pneumonia from chest X-ray images using a K-Nearest Neighbors (KNN) classifier. Implemented grayscale conversion, image resizing, normalization, and pixel-based feature extraction to classify X-rays into NORMAL and PNEUMONIA categories. Achieved **73.24% test accuracy** with **99% recall for pneumonia**.
+Built an image classification model using K-Nearest Neighbors to detect pneumonia from chest X-rays. Achieved 73.24% test accuracy and 99% pneumonia recall.
 
-**Stack:** Python, KNN, Scikit-learn, OpenCV, NumPy, Matplotlib, Seaborn
+<b>Stack:</b> Python · KNN · OpenCV · Scikit-learn · NumPy
 
 </td>
 </tr>
-<td width="50%" valign="top">
 </table>
+
 
 
 ## `experience.log`
