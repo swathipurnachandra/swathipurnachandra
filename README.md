@@ -54,9 +54,6 @@ Contributed to an AI-driven sex education platform focused on anonymity, accessi
 </td>
 <td width="50%" valign="top">
 
-
-<td width="50%" valign="top">
-
 ### Pneumonia Detection using KNN
 
 Developed a machine learning-based classification system to detect pneumonia from chest X-ray images using a K-Nearest Neighbors (KNN) classifier. Implemented grayscale conversion, image resizing, normalization, and pixel-based feature extraction to classify X-rays into NORMAL and PNEUMONIA categories. Achieved **73.24% test accuracy** with **99% recall for pneumonia**.
@@ -65,6 +62,7 @@ Developed a machine learning-based classification system to detect pneumonia fro
 
 </td>
 </tr>
+<td width="50%" valign="top">
 </table>
 
 
